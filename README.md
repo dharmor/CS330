@@ -16,6 +16,7 @@ The framework provided a high-level abstraction layer, which I found useful in u
 
 
 <h2> 2.	How do I approach developing programs? </h2>
+
 <i>•	What new development strategies did you use while working on your 3D scene?</i>
 
 A new development strategy I used was to keep the objects in the scene module so they can be reused with a minimal amount of code.
